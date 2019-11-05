@@ -11,7 +11,7 @@
 - [X] 搜索排行
 - [X] 独立站点 ➡️[影视全搜索](http://v.eyunzhu.com)
 - [ ] 小程序 (开发中)
-- [ ] android app (开发中)
+- [X] android app 公测版 [怕黑](http://eyunzhu.com/tools/pahei/app.html)
 - [ ] iOS app (开发中)
 - [ ] 插件
 	- [X] ThinkCMF插件
